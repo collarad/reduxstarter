@@ -1,4 +1,4 @@
-name := """play-scala-starter-example"""
+name := """react-redux-starter"""
 
 version := "1.0-SNAPSHOT"
 
